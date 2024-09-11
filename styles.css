@@ -72,6 +72,45 @@ main a:hover{
     border-radius: 20px;
 }
 
+aside{
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    margin-top: 60px;
+    margin-bottom: 160px;
+    margin-left: 20px;
+    margin-right: 160px;
+    width: 70%;
+}
+
+aside img{
+    width: 100%;
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+aside h1{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+aside h2{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+aside p{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+aside a{
+    color: rgb(255, 121, 0);
+    font-weight: bold;
+    padding: 8px;
+    font-size: 24px;
+    line-height: 40px;
+}
+
 footer{
     background-color: black;
     color: white;
@@ -97,4 +136,8 @@ footer h1{
 footer p{
     padding-left: 120px;
     padding-right: 120px;
+}
+
+span{
+    font-weight: bold;
 }
