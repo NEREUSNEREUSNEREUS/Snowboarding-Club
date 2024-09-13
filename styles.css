@@ -6,7 +6,6 @@ body{
 
 header{
     background-color: black;
-    color: white;
     padding-top: 26px;
     padding-bottom: 16px;
     padding-left: 120px;
@@ -14,7 +13,7 @@ header{
 }
 
 header img{
-    width: 280px;
+    width: 20%;
 }
 
 header a{
