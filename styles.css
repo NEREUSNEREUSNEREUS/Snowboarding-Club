@@ -17,7 +17,7 @@ header img{
 }
 
 header a{
-    font-size: 18px;
+    font-size: 22px;
     font-family: "Inter", sans-serif;
     color: white;
     text-decoration: none;
@@ -39,7 +39,7 @@ main {
     margin-left: 160px;
     margin-right: 20px;
     width: 80%;
-    line-height: 32px
+    line-height: 34px
 }
 
 main h1{
@@ -54,6 +54,7 @@ main h2{
 }
 
 main p{
+    font-size: 18px;
     margin-left: 40px;
     margin-right: 40px;
 }
@@ -61,7 +62,7 @@ main p{
 main a{
     color: rgb(255, 121, 0);
     font-weight: bold;
-    padding: 8px;
+    padding: 12px;
     line-height: 60px;
 }
 
@@ -105,7 +106,7 @@ aside p{
 aside a{
     color: rgb(255, 121, 0);
     font-weight: bold;
-    padding: 8px;
+    padding: 12px;
     font-size: 24px;
     line-height: 40px;
 }
